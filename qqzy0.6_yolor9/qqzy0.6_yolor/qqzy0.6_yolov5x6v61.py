@@ -1,0 +1,5 @@
+conf_thres = 0.04
+iou_thres = 0.6
+img_size = 960
+CLASSES = ['上跨cross_up','下跨cross_down','佩戴绝缘手套insulating_gloves','冬装衣服winter_clothes','冬装裤子winter_trousers','切割cutting','单人扛梯single_ladder','卷起来的工作裤roll_workclothes','只有扶梯人，看不到登高人height_zero','围栏fence','安全带safteybelt','安全帽hat','工人work_men','工作服上衣workclothes_clothes','工作服裤子workclothes_trousers','手hand','手机phone','扣环safteybelt_clasp','抽烟smoking','无井盖的孔洞holes','有人扶梯的登高height_two','未戴安全帽person','标示牌identification_plate','水泥杆登高noheight_men','灭火器extinguisher','玩手机play_mobile','登高无人扶梯height_one','短裤shorts','起重车辆载人（叉车载人）forklifts_have','起重车辆载人（无人）forklifts_head','起重车辆载人（有货物无人）forklifts_standing',
+'路人stranger_men','非工作服上衣noworkclothes_clothes','非工作服裤子noworkclothes_trousers','马甲vest','验电手的正常位置righting','验电笔groundrod','验电超过护环overring','（卷起来）短袖roll_shirts']
