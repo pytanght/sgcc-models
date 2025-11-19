@@ -1,0 +1,24 @@
+{
+"PDZF": {
+            "name": "PDZF yolor_d6",
+            "type": "general",
+            "modelfile": "./weight_files/PDZF_yolov5m4.pt",
+            "configfile": "./config_files/PDZF_yolov5x6v61.py",
+            "basemodel": "yolov5",
+            "buse": "true",
+            "inferenceThreadNum": 1,
+            "postprocessThreadNum": 1,
+            "py_name": ".inference_PDZF",
+            "device": 0,
+            "CLASSES": [
+                "站房设备数据储能023_zf_sbsj_cn",
+                "站房设备数据分闸指示亮023_zf_sbsj_fzzsl",
+                "站房设备数据分闸指示灭023_zf_sbsj_fzzsm",
+                "站房设备数据合闸指示亮023_zf_sbsj_hzzsl",
+                "站房设备数据合闸指示灭023_zf_sbsj_hzzsm",
+                "站房设备数据投入023_zf_sbsj_tr",
+                "站房设备数据远方023_zf_sbsj_yf",
+                "站房设备数据退出023_zf_sbsj_tc"
+            ]
+        }
+}
