@@ -1,0 +1,4 @@
+conf_thres = 0.04
+iou_thres = 0.6
+img_size = 960
+CLASSES = ['SF6ylb', 'aqmzc', 'bj_bpmh', 'bj_bpps', 'bj_wkps', 'bjdsyc_sx', 'bjdsyc_ywc', 'bjdsyc_ywj', 'bjdsyc_zz', 'bmwh', 'cysb_cyg', 'cysb_lqq', 'cysb_qtjdq', 'cysb_qyb', 'cysb_sgz', 'cysb_tg', 'ddjt', 'drq', 'drqgd', 'ecjxh', 'fhz_f', 'fhz_h', 'fhz_ztyc', 'gcc_mh', 'gcc_ps', 'gzzc', 'hxq_gjbs', 'hxq_gjtps', 'hxq_gjzc', 'hxq_yfps', 'hzyw', 'jdyxx', 'jdyxxsd', 'jsxs_ddjt', 'jsxs_ddyx', 'jsxs_ecjxh', 'jsxs_jdyxx', 'jyh', 'jyhbx', 'jyz_pl', 'kgg_ybf', 'kgg_ybh', 'kk_f', 'kk_h', 'mbhp', 'pzq', 'pzqcd', 'sly_bjbmyw', 'sly_dmyw', 'wcaqm', 'ws_ywyc', 'ws_ywzc', 'xldlb', 'xmbhyc', 'xmbhzc', 'ylb', 'ylsff', 'yw_gkxfw', 'yw_nc', 'ywb', 'ywc', 'ywj', 'ywzt_yfyc', 'ywzt_yfzc', 'yx', 'yxdgsg', 'zsd_l', 'zsd_m']
